@@ -1,2 +1,0 @@
-
-https://api.weatherapi.com/v1/current.json?key=221e7d70d0ea49aebdf164118250609
